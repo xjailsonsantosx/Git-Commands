@@ -15,7 +15,7 @@ _A list of my commonly used Git commands_
 | `git clone ssh://git@github.com/[username]/[repository-name].git` | Create a local copy of a remote repository |
 
 ### Basic Snapshotting
-
+   
 | Command | Description |
 | ------- | ----------- |
 | `git status` | Check status |
@@ -64,3 +64,4 @@ _A list of my commonly used Git commands_
 | `git log --summary` | View changes (detailed) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 
+=D
